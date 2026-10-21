@@ -1,4 +1,8 @@
-# Arduino / IDE
+# Bibliothèques tierces (voir firmware/libs/README.md)
+firmware/libs/*
+!firmware/libs/README.md
+
+# Arduino / build
 *.hex
 *.bin
 *.elf
